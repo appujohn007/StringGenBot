@@ -8,7 +8,7 @@ load_dotenv()
 API_ID = int(10471716)
 API_HASH = "f8a1b21a13af154596e2ff5bed164860"
 
-BOT_TOKEN = "6916875347:AAGo2IamTLCK4fhB5wPzAZFhppJN6GWaFAc"
+BOT_TOKEN = "7386576950:AAEHlgtmveuk8J4FY7p_uXi_9v_z0R_Dggk"
 MONGO_DB_URI = "mongodb+srv://appuz:chrijismiappuz@cluster0.yngvhc2.mongodb.net/?retryWrites=true&w=majority"
 
 OWNER_ID = int(getenv("OWNER_ID", 1356469075))
